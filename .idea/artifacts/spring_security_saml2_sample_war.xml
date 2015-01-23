@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="spring-security-saml2-sample:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="spring-security-saml2-sample.war">
+      <element id="artifact" artifact-name="spring-security-saml2-sample:war exploded" />
+    </root>
+  </artifact>
+</component>
